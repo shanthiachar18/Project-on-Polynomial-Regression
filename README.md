@@ -11,9 +11,9 @@ We want to build a model to predict what salary we should offer this new employe
 1. Linear Regression Model
 2. Plynomial Regression Model
 # 3.Model Validation:
-1.R-square value
-2.Mean Squared error
-3.Mean Absolute error
+1. R-square value
+2. Mean Squared error
+3. Mean Absolute error
 # Insights:
 * From both the prediction models the Polyomial regression model got the higher accuracy of 99.74 than Linear Regression model.
 * So, according to the analysis, the polynomial regression is most efficient for the prediction of salary of the employees.
