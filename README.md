@@ -6,7 +6,7 @@ So based on the table above - he falls between level 6 and level 7 - Lets say he
 We want to build a model to predict what salary we should offer this new employee.
 # Methodology:
 # 1.EDA:
-* Performed EDA to get more informative features like null valuesa,otliers,correlation so on.
+* Performed EDA to get more informative features like null values,outliers,correlation and other features.
 # 2.Model Bulding:
 1. Linear Regression Model
 2. Plynomial Regression Model
